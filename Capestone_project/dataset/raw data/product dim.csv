@@ -1,0 +1,10 @@
+product_id,product_name,catogary,Unit_price,standard_production_time_minutes,defect_tolerance_percentage
+1,Gear Assembly,Electrical,9843,40,1
+2,Hydraulic Pump,Hydraulic,8567,43,2
+3,Metal Shaft,Electrical,6414,26,1
+4,Plastic Casing,Industrial,860,26,3
+5,Control Panel,Automotive,9882,10,5
+6,Bearing Unit,Mechanical,1256,14,3
+7,Engine component,Mechanical,6618,30,5
+8,Bearing Component,Electrical,7762,24,5
+9,Valve Unit,Mechanical,1243,41,1

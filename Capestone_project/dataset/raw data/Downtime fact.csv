@@ -1,0 +1,1000 @@
+﻿downtime_id,date,plant_id,machine_id,shift,downtime_minutes,downtime_reason,severity_level,production_loss_units
+1,11-17-2025,2,44,Morning,61,Power Failure,medium,183
+2,08-01-2025,5,12,Evening,30,Power Failure,low,30
+3,10-29-2025,6,21,Evening,193,Mechanical Failure,Critical,386
+4,6-17-2025,2,11,Evening,30,Sensor Fault,low,30
+5,5-24-2025,1,32,Night,191,Operator Error,Critical,382
+6,4-23-2025,1,13,Night,206,Electrical Issue,Critical,618
+7,5-20-2025,2,2,Night,67,Sensor Fault,medium,67
+8,12-27-2025,6,12,Morning,39,Electrical Issue,medium,117
+9,4-25-2025,1,11,Evening,15,Mechanical Failure,low,30
+10,07-06-2025,3,43,Night,30,Mechanical Failure,low,90
+11,7-27-2025,6,30,Morning,160,Sensor Fault,High,160
+12,5-17-2025,3,27,Evening,74,Operator Error,medium,74
+13,12-18-2025,1,35,general,189,Sensor Fault,Critical,189
+14,01-03-2026,3,2,Night,122,Sensor Fault,High,366
+15,4-27-2025,5,40,general,180,Material Shortage,High,180
+16,3-17-2025,4,39,general,93,Scheduled Maintenance,High,279
+17,05-10-2025,2,44,Morning,14,Sensor Fault,low,28
+18,4-27-2025,4,38,Night,97,Material Shortage,High,194
+19,10-16-2025,2,28,Evening,197,Overheating,Critical,197
+20,03-02-2025,6,14,Night,113,Operator Error,High,339
+21,06-07-2025,4,5,Evening,68,Power Failure,medium,136
+22,2-27-2025,5,21,general,86,Operator Error,medium,86
+23,6-20-2025,4,10,Evening,83,Operator Error,medium,249
+24,4-16-2025,5,25,Evening,208,Operator Error,Critical,624
+25,10-28-2025,4,10,Evening,146,Electrical Issue,High,438
+26,12-05-2025,1,42,Night,219,Operator Error,Critical,657
+27,12-16-2025,2,20,Evening,134,Sensor Fault,High,134
+28,5-30-2025,2,14,Evening,35,Material Shortage,medium,35
+29,7-29-2025,3,24,general,15,Operator Error,low,30
+30,1-24-2026,4,42,Night,47,Sensor Fault,medium,47
+31,7-19-2025,6,34,general,61,Material Shortage,medium,183
+32,11-17-2025,1,21,Night,165,Scheduled Maintenance,High,495
+33,8-21-2025,5,6,Morning,141,Overheating,High,423
+34,7-25-2025,4,4,Evening,192,Sensor Fault,Critical,576
+35,3-27-2025,6,8,general,15,Power Failure,low,15
+36,10-17-2025,1,26,Night,38,Overheating,medium,114
+37,07-08-2025,3,14,Evening,52,Electrical Issue,medium,104
+38,02-08-2026,2,24,general,82,Scheduled Maintenance,medium,246
+39,04-02-2025,2,32,general,179,Electrical Issue,High,179
+40,12-23-2025,1,25,Morning,112,Mechanical Failure,High,336
+41,6-14-2025,3,16,general,174,Material Shortage,High,174
+42,1-16-2026,2,33,general,85,Overheating,medium,255
+43,11-29-2025,4,3,Morning,73,Overheating,medium,73
+44,5-26-2025,2,21,general,227,Sensor Fault,Critical,227
+45,11-24-2025,2,8,Evening,111,Sensor Fault,High,222
+46,8-28-2025,2,34,Night,34,Power Failure,medium,34
+47,09-07-2025,6,34,Morning,188,Power Failure,Critical,376
+48,2-25-2025,5,12,Evening,226,Power Failure,Critical,452
+49,1-19-2026,5,4,general,23,Overheating,low,46
+50,01-12-2026,5,25,general,60,Scheduled Maintenance,medium,120
+51,12-02-2025,4,39,Night,130,Scheduled Maintenance,High,390
+52,5-19-2025,5,38,general,44,Mechanical Failure,medium,88
+53,02-07-2026,1,14,Evening,49,Power Failure,medium,49
+54,8-15-2025,6,24,general,35,Material Shortage,medium,105
+55,12-02-2025,3,12,general,150,Material Shortage,High,150
+56,5-19-2025,5,45,Evening,35,Operator Error,medium,35
+57,4-30-2025,6,7,Evening,90,Power Failure,medium,270
+58,6-13-2025,4,10,Night,214,Overheating,Critical,214
+59,9-30-2025,1,12,Evening,22,Electrical Issue,low,44
+60,9-20-2025,2,10,general,203,Mechanical Failure,Critical,203
+61,10-29-2025,6,24,Morning,212,Scheduled Maintenance,Critical,636
+62,12-09-2025,6,12,Night,87,Overheating,medium,174
+63,5-31-2025,1,31,Night,162,Scheduled Maintenance,High,324
+64,11-24-2025,1,41,general,174,Overheating,High,522
+65,11-10-2025,5,24,Morning,81,Power Failure,medium,162
+66,06-07-2025,6,45,Morning,222,Power Failure,Critical,222
+67,2-15-2026,3,28,Night,134,Electrical Issue,High,402
+68,8-17-2025,2,4,Night,126,Material Shortage,High,252
+69,6-26-2025,1,27,Evening,93,Power Failure,High,186
+70,10-04-2025,3,4,Night,227,Operator Error,Critical,681
+71,8-20-2025,6,28,Evening,55,Scheduled Maintenance,medium,55
+72,10-04-2025,6,34,Evening,48,Scheduled Maintenance,medium,96
+73,4-15-2025,6,20,Evening,46,Power Failure,medium,138
+74,5-26-2025,2,40,general,199,Power Failure,Critical,597
+75,05-09-2025,1,43,general,51,Mechanical Failure,medium,51
+76,11-09-2025,3,20,Morning,183,Operator Error,Critical,183
+77,11-14-2025,6,16,Night,124,Electrical Issue,High,124
+78,8-16-2025,6,10,Night,51,Material Shortage,medium,102
+79,5-17-2025,4,27,general,185,Electrical Issue,Critical,370
+80,03-12-2025,1,24,general,36,Sensor Fault,medium,72
+81,2-18-2026,1,15,general,72,Material Shortage,medium,144
+82,02-03-2026,4,5,Night,59,Electrical Issue,medium,59
+83,8-13-2025,1,15,Night,148,Power Failure,High,148
+84,05-01-2025,2,40,Morning,42,Power Failure,medium,126
+85,08-10-2025,1,37,Morning,114,Operator Error,High,342
+86,6-20-2025,1,30,general,64,Operator Error,medium,128
+87,3-21-2025,4,14,general,198,Material Shortage,Critical,594
+88,1-25-2026,1,31,Night,87,Mechanical Failure,medium,174
+89,3-13-2025,5,19,Evening,161,Electrical Issue,High,322
+90,10-04-2025,5,13,Night,208,Electrical Issue,Critical,416
+91,07-03-2025,2,33,Evening,117,Power Failure,High,351
+92,05-09-2025,4,38,Evening,147,Overheating,High,441
+93,4-17-2025,1,38,Morning,158,Overheating,High,158
+94,02-01-2026,3,9,Night,152,Electrical Issue,High,456
+95,3-30-2025,5,15,Morning,216,Scheduled Maintenance,Critical,432
+96,06-09-2025,4,29,Evening,106,Overheating,High,212
+97,03-02-2025,1,31,general,16,Scheduled Maintenance,low,32
+98,6-19-2025,6,23,Evening,78,Operator Error,medium,156
+99,08-04-2025,1,4,Night,96,Mechanical Failure,High,192
+100,01-05-2026,5,38,Night,38,Sensor Fault,medium,76
+101,02-02-2026,3,12,Night,168,Scheduled Maintenance,High,336
+102,07-09-2025,3,45,Evening,62,Operator Error,medium,124
+103,2-17-2026,2,27,Night,196,Electrical Issue,Critical,392
+104,3-31-2025,5,21,Morning,131,Mechanical Failure,High,262
+105,12-28-2025,2,8,general,107,Power Failure,High,107
+106,12-02-2025,2,17,general,146,Operator Error,High,438
+107,5-15-2025,6,42,Morning,96,Electrical Issue,High,96
+108,12-27-2025,6,14,general,122,Mechanical Failure,High,366
+109,11-30-2025,2,29,Evening,192,Material Shortage,Critical,384
+110,6-26-2025,4,7,Night,27,Scheduled Maintenance,low,27
+111,4-26-2025,5,14,Night,201,Material Shortage,Critical,603
+112,12-01-2025,2,33,general,206,Overheating,Critical,618
+113,4-24-2025,3,8,Morning,195,Scheduled Maintenance,Critical,390
+114,8-15-2025,5,30,general,87,Overheating,medium,261
+115,1-13-2026,2,30,Evening,158,Material Shortage,High,474
+116,07-07-2025,1,6,general,55,Overheating,medium,55
+117,8-20-2025,3,5,Night,213,Electrical Issue,Critical,639
+118,1-25-2026,6,43,Night,81,Overheating,medium,81
+119,09-04-2025,2,44,Night,87,Operator Error,medium,87
+120,9-16-2025,6,15,general,111,Overheating,High,333
+121,10-22-2025,4,11,Evening,210,Material Shortage,Critical,210
+122,5-30-2025,1,2,Night,152,Operator Error,High,304
+123,10-04-2025,3,38,Morning,153,Operator Error,High,459
+124,9-27-2025,1,3,Night,51,Electrical Issue,medium,153
+125,03-02-2025,4,7,Evening,160,Sensor Fault,High,480
+126,12-31-2025,4,30,general,69,Scheduled Maintenance,medium,138
+127,9-18-2025,4,17,general,153,Scheduled Maintenance,High,153
+128,9-25-2025,3,4,Night,93,Sensor Fault,High,279
+129,2-14-2026,4,32,Evening,62,Overheating,medium,186
+130,08-01-2025,6,3,Evening,59,Material Shortage,medium,59
+131,8-17-2025,4,44,general,21,Overheating,low,42
+132,12-21-2025,1,43,Evening,180,Material Shortage,High,360
+133,12-15-2025,1,8,Evening,219,Mechanical Failure,Critical,219
+134,01-06-2026,3,9,Evening,191,Operator Error,Critical,573
+135,6-27-2025,3,33,Evening,19,Scheduled Maintenance,low,57
+136,11-21-2025,2,7,Morning,216,Sensor Fault,Critical,216
+137,09-12-2025,2,19,Evening,22,Overheating,low,66
+138,09-05-2025,6,34,Evening,213,Overheating,Critical,426
+139,09-08-2025,4,21,general,41,Material Shortage,medium,123
+140,8-16-2025,6,10,Evening,48,Scheduled Maintenance,medium,96
+141,4-13-2025,3,37,Night,112,Overheating,High,112
+142,3-18-2025,5,39,general,87,Material Shortage,medium,174
+143,06-03-2025,1,30,Evening,137,Electrical Issue,High,274
+144,04-07-2025,6,33,Night,87,Sensor Fault,medium,87
+145,1-28-2026,4,27,Night,54,Scheduled Maintenance,medium,108
+146,12-26-2025,1,36,general,210,Electrical Issue,Critical,420
+147,3-17-2025,5,30,Night,221,Sensor Fault,Critical,221
+148,01-01-2026,6,15,Evening,52,Scheduled Maintenance,medium,104
+149,9-23-2025,6,31,Night,205,Material Shortage,Critical,615
+150,4-14-2025,3,26,Night,74,Scheduled Maintenance,medium,148
+151,05-09-2025,5,7,general,54,Operator Error,medium,108
+152,6-24-2025,6,31,Morning,44,Electrical Issue,medium,44
+153,11-06-2025,4,11,Morning,219,Electrical Issue,Critical,438
+154,9-25-2025,4,29,general,115,Overheating,High,115
+155,04-02-2025,5,14,Morning,217,Electrical Issue,Critical,651
+156,10-05-2025,1,6,Night,178,Power Failure,High,178
+157,8-25-2025,3,6,Evening,134,Electrical Issue,High,268
+158,2-23-2025,1,32,Morning,151,Overheating,High,453
+159,5-28-2025,5,16,Morning,82,Overheating,medium,82
+160,4-27-2025,5,43,Morning,137,Mechanical Failure,High,274
+161,12-15-2025,2,19,Evening,37,Material Shortage,medium,74
+162,8-23-2025,1,10,general,131,Material Shortage,High,393
+163,2-18-2026,5,33,Morning,169,Material Shortage,High,507
+164,8-16-2025,6,38,Morning,106,Electrical Issue,High,106
+165,7-25-2025,3,25,general,181,Mechanical Failure,Critical,362
+166,12-02-2025,6,21,Evening,171,Power Failure,High,342
+167,12-07-2025,3,7,Morning,18,Operator Error,low,54
+168,12-24-2025,5,12,general,138,Sensor Fault,High,138
+169,05-09-2025,2,15,Evening,53,Mechanical Failure,medium,106
+170,9-19-2025,2,10,Evening,128,Sensor Fault,High,128
+171,7-16-2025,5,8,Night,52,Electrical Issue,medium,52
+172,06-01-2025,4,15,Morning,20,Mechanical Failure,low,40
+173,8-26-2025,1,43,Night,90,Scheduled Maintenance,medium,90
+174,8-14-2025,2,15,Morning,207,Mechanical Failure,Critical,207
+175,3-27-2025,6,39,Evening,103,Power Failure,High,309
+176,8-17-2025,1,23,general,167,Power Failure,High,501
+177,12-04-2025,3,31,Night,180,Mechanical Failure,High,360
+178,2-15-2026,3,27,general,72,Overheating,medium,216
+179,03-07-2025,1,26,Morning,10,Operator Error,low,10
+180,02-10-2026,3,33,Morning,73,Operator Error,medium,219
+181,11-09-2025,4,36,Evening,224,Overheating,Critical,224
+182,7-13-2025,3,31,Morning,18,Sensor Fault,low,54
+183,2-23-2025,4,43,Evening,12,Electrical Issue,low,24
+184,10-14-2025,2,39,Morning,143,Operator Error,High,429
+185,02-11-2026,3,21,Evening,173,Operator Error,High,346
+186,1-25-2026,1,23,Morning,210,Electrical Issue,Critical,420
+187,03-04-2025,2,13,Evening,136,Mechanical Failure,High,272
+188,01-09-2026,6,45,Night,207,Electrical Issue,Critical,207
+189,6-30-2025,5,26,Evening,53,Scheduled Maintenance,medium,106
+190,06-06-2025,3,4,Morning,58,Scheduled Maintenance,medium,174
+191,7-27-2025,5,32,Morning,220,Mechanical Failure,Critical,440
+192,6-14-2025,1,25,Morning,90,Electrical Issue,medium,180
+193,12-02-2025,6,19,Morning,173,Operator Error,High,519
+194,9-21-2025,5,8,Evening,54,Scheduled Maintenance,medium,54
+195,12-20-2025,4,40,Night,65,Operator Error,medium,130
+196,02-08-2026,1,8,general,172,Material Shortage,High,344
+197,07-12-2025,2,12,general,131,Sensor Fault,High,393
+198,1-18-2026,5,5,Evening,87,Overheating,medium,174
+199,1-16-2026,3,34,Morning,27,Operator Error,low,27
+200,1-27-2026,6,22,Evening,153,Overheating,High,153
+201,09-12-2025,4,44,Night,173,Sensor Fault,High,173
+202,7-19-2025,5,45,Evening,40,Electrical Issue,medium,120
+203,7-25-2025,6,31,Evening,77,Electrical Issue,medium,231
+204,05-05-2025,5,27,Evening,65,Electrical Issue,medium,130
+205,2-21-2026,3,32,general,138,Sensor Fault,High,276
+206,08-04-2025,1,39,Night,222,Overheating,Critical,666
+207,08-04-2025,5,39,Night,123,Mechanical Failure,High,246
+208,4-20-2025,2,10,general,209,Operator Error,Critical,209
+209,12-21-2025,4,25,general,35,Electrical Issue,medium,70
+210,1-22-2026,3,37,Night,161,Scheduled Maintenance,High,322
+211,6-25-2025,6,28,Morning,86,Electrical Issue,medium,172
+212,07-12-2025,4,21,Night,139,Overheating,High,278
+213,8-15-2025,3,10,Evening,25,Scheduled Maintenance,low,50
+214,1-28-2026,5,34,Night,123,Scheduled Maintenance,High,369
+215,4-26-2025,1,37,Night,204,Scheduled Maintenance,Critical,204
+216,06-11-2025,5,6,Evening,195,Electrical Issue,Critical,195
+217,3-31-2025,4,31,Night,172,Sensor Fault,High,172
+218,12-30-2025,5,24,Morning,54,Scheduled Maintenance,medium,162
+219,08-10-2025,2,24,Night,160,Sensor Fault,High,160
+220,2-16-2026,6,16,Evening,126,Overheating,High,252
+221,02-06-2026,5,33,Night,152,Power Failure,High,304
+222,2-24-2025,5,40,Morning,41,Overheating,medium,41
+223,6-17-2025,6,14,Evening,228,Power Failure,Critical,684
+224,01-06-2026,2,14,Evening,12,Operator Error,low,36
+225,03-09-2025,6,22,Night,11,Sensor Fault,low,11
+226,03-12-2025,3,44,Evening,194,Material Shortage,Critical,388
+227,09-11-2025,6,22,Night,192,Material Shortage,Critical,576
+228,6-27-2025,2,31,general,151,Material Shortage,High,302
+229,07-10-2025,6,21,Evening,103,Electrical Issue,High,309
+230,08-11-2025,3,15,Night,91,Scheduled Maintenance,High,91
+231,9-19-2025,4,31,Morning,193,Material Shortage,Critical,579
+232,7-24-2025,1,32,Morning,63,Mechanical Failure,medium,63
+233,08-01-2025,4,24,Evening,58,Power Failure,medium,116
+234,8-15-2025,5,19,Evening,66,Scheduled Maintenance,medium,132
+235,11-23-2025,4,29,Night,90,Mechanical Failure,medium,180
+236,04-01-2025,6,1,Morning,147,Electrical Issue,High,441
+237,08-06-2025,3,17,Night,70,Overheating,medium,70
+238,08-01-2025,1,29,Morning,131,Power Failure,High,262
+239,3-22-2025,4,6,Evening,227,Overheating,Critical,681
+240,09-07-2025,2,6,general,38,Mechanical Failure,medium,38
+241,10-19-2025,5,35,Night,207,Mechanical Failure,Critical,207
+242,5-25-2025,5,10,general,169,Electrical Issue,High,169
+243,12-12-2025,3,5,Morning,19,Overheating,low,57
+244,2-25-2025,6,18,Evening,92,Mechanical Failure,High,276
+245,10-07-2025,2,16,Evening,204,Sensor Fault,Critical,612
+246,2-20-2026,5,31,general,57,Scheduled Maintenance,medium,171
+247,01-05-2026,1,1,general,60,Operator Error,medium,60
+248,3-15-2025,5,26,general,127,Scheduled Maintenance,High,381
+249,05-05-2025,4,28,Morning,201,Power Failure,Critical,603
+250,4-29-2025,1,7,Morning,150,Overheating,High,450
+251,1-25-2026,1,34,Morning,219,Sensor Fault,Critical,657
+252,01-06-2026,3,31,general,95,Material Shortage,High,95
+253,12-06-2025,1,41,Evening,148,Operator Error,High,148
+254,6-17-2025,6,35,general,175,Sensor Fault,High,350
+255,2-27-2025,2,19,Night,41,Material Shortage,medium,41
+256,3-15-2025,5,35,Night,68,Power Failure,medium,68
+257,3-15-2025,3,7,general,30,Operator Error,low,30
+258,09-11-2025,2,24,Morning,78,Mechanical Failure,medium,78
+259,11-18-2025,4,44,Evening,166,Material Shortage,High,498
+260,01-05-2026,4,35,general,138,Electrical Issue,High,138
+261,4-30-2025,1,3,Morning,156,Power Failure,High,312
+262,10-27-2025,4,7,Night,109,Overheating,High,218
+263,4-18-2025,5,34,Night,164,Operator Error,High,164
+264,07-07-2025,2,15,Night,181,Overheating,Critical,543
+265,10-09-2025,3,20,Morning,161,Electrical Issue,High,483
+266,3-28-2025,3,24,Night,89,Scheduled Maintenance,medium,267
+267,12-01-2025,6,41,Night,160,Power Failure,High,160
+268,7-14-2025,3,38,Morning,183,Mechanical Failure,Critical,366
+269,01-03-2026,6,28,Night,184,Overheating,Critical,184
+270,10-15-2025,3,1,Night,113,Scheduled Maintenance,High,113
+271,01-03-2026,3,45,general,68,Operator Error,medium,204
+272,2-25-2025,5,17,general,126,Sensor Fault,High,378
+273,05-07-2025,2,30,general,47,Material Shortage,medium,141
+274,10-29-2025,4,2,general,43,Scheduled Maintenance,medium,86
+275,09-09-2025,2,37,Evening,211,Scheduled Maintenance,Critical,211
+276,02-01-2026,5,28,Night,166,Scheduled Maintenance,High,332
+277,08-07-2025,4,13,general,66,Power Failure,medium,66
+278,08-06-2025,6,9,general,28,Scheduled Maintenance,low,56
+279,02-11-2026,2,3,general,128,Scheduled Maintenance,High,128
+280,06-05-2025,6,3,Evening,74,Operator Error,medium,222
+281,5-20-2025,5,32,Evening,139,Mechanical Failure,High,278
+282,11-19-2025,5,8,Evening,230,Material Shortage,Critical,230
+283,10-15-2025,2,29,Morning,39,Power Failure,medium,39
+284,03-10-2025,1,20,Morning,198,Power Failure,Critical,396
+285,6-30-2025,6,8,Night,15,Power Failure,low,30
+286,10-05-2025,6,19,general,13,Electrical Issue,low,13
+287,1-24-2026,4,19,general,50,Material Shortage,medium,50
+288,2-23-2025,3,7,Evening,34,Scheduled Maintenance,medium,68
+289,04-07-2025,2,12,Evening,168,Operator Error,High,168
+290,2-14-2026,2,6,Morning,150,Mechanical Failure,High,450
+291,1-15-2026,1,2,Morning,202,Material Shortage,Critical,202
+292,11-29-2025,2,21,Night,141,Electrical Issue,High,423
+293,6-14-2025,3,26,Evening,138,Overheating,High,276
+294,10-29-2025,1,21,Night,68,Scheduled Maintenance,medium,136
+295,10-28-2025,3,22,general,57,Operator Error,medium,114
+296,11-17-2025,5,44,Evening,103,Sensor Fault,High,103
+297,10-14-2025,1,8,Morning,96,Power Failure,High,192
+298,02-11-2026,4,4,Evening,111,Sensor Fault,High,222
+299,3-13-2025,1,25,Evening,61,Mechanical Failure,medium,122
+300,05-06-2025,4,34,Morning,172,Material Shortage,High,344
+301,3-23-2025,3,17,general,99,Electrical Issue,High,99
+302,07-11-2025,4,17,Night,82,Operator Error,medium,164
+303,11-17-2025,5,5,general,116,Scheduled Maintenance,High,116
+304,07-07-2025,3,20,Night,32,Operator Error,medium,96
+305,10-19-2025,4,45,general,153,Power Failure,High,459
+306,12-30-2025,3,30,Evening,86,Electrical Issue,medium,258
+307,12-28-2025,1,30,Morning,153,Sensor Fault,High,153
+308,01-11-2026,3,18,Night,157,Overheating,High,471
+309,09-12-2025,2,43,Night,97,Overheating,High,291
+310,4-28-2025,3,36,Morning,51,Overheating,medium,102
+311,9-13-2025,5,35,Morning,103,Sensor Fault,High,103
+312,07-06-2025,4,3,general,131,Mechanical Failure,High,262
+313,02-03-2026,4,31,general,191,Operator Error,Critical,382
+314,04-02-2025,5,3,Morning,229,Scheduled Maintenance,Critical,687
+315,10-01-2025,3,41,Morning,58,Material Shortage,medium,174
+316,06-05-2025,5,40,general,109,Electrical Issue,High,327
+317,9-19-2025,3,36,Evening,185,Mechanical Failure,Critical,370
+318,08-05-2025,1,6,Evening,112,Sensor Fault,High,336
+319,06-11-2025,1,9,Night,103,Power Failure,High,103
+320,08-08-2025,2,19,Morning,69,Scheduled Maintenance,medium,138
+321,8-13-2025,3,29,Night,222,Operator Error,Critical,666
+322,11-18-2025,2,33,general,105,Operator Error,High,315
+323,4-29-2025,1,28,Morning,78,Overheating,medium,234
+324,9-21-2025,4,7,Night,208,Electrical Issue,Critical,624
+325,11-01-2025,6,11,Evening,19,Power Failure,low,57
+326,10-17-2025,6,19,Evening,205,Overheating,Critical,205
+327,02-12-2026,4,41,Evening,172,Overheating,High,344
+328,10-12-2025,5,21,Evening,166,Sensor Fault,High,332
+329,02-07-2026,6,26,Evening,219,Electrical Issue,Critical,219
+330,3-16-2025,3,1,Evening,164,Operator Error,High,328
+331,6-18-2025,2,41,Evening,182,Electrical Issue,Critical,546
+332,10-05-2025,1,36,general,185,Material Shortage,Critical,185
+333,2-25-2025,3,40,Evening,68,Material Shortage,medium,68
+334,08-05-2025,3,6,Evening,228,Scheduled Maintenance,Critical,684
+335,9-26-2025,5,16,general,218,Overheating,Critical,218
+336,2-23-2025,6,37,Evening,183,Material Shortage,Critical,183
+337,2-14-2026,6,27,general,66,Material Shortage,medium,198
+338,8-15-2025,5,20,Morning,124,Mechanical Failure,High,124
+339,9-15-2025,6,5,general,223,Mechanical Failure,Critical,223
+340,10-08-2025,6,1,Evening,42,Overheating,medium,42
+341,2-22-2025,2,2,Night,172,Power Failure,High,344
+342,11-09-2025,6,43,Night,41,Power Failure,medium,41
+343,09-08-2025,6,2,Evening,204,Mechanical Failure,Critical,204
+344,6-26-2025,4,21,Morning,190,Power Failure,Critical,190
+345,11-25-2025,5,5,general,145,Sensor Fault,High,290
+346,7-25-2025,1,35,Evening,88,Mechanical Failure,medium,264
+347,11-21-2025,3,28,Evening,178,Sensor Fault,High,178
+348,5-23-2025,4,1,Evening,173,Sensor Fault,High,173
+349,1-16-2026,5,42,general,41,Sensor Fault,medium,41
+350,04-05-2025,3,32,Morning,210,Operator Error,Critical,630
+351,3-26-2025,4,24,Evening,17,Overheating,low,51
+352,2-15-2026,5,44,Night,69,Operator Error,medium,207
+353,04-02-2025,1,19,Evening,120,Material Shortage,High,120
+354,10-26-2025,3,35,Night,103,Mechanical Failure,High,103
+355,02-02-2026,2,15,Morning,31,Overheating,medium,31
+356,02-10-2026,3,1,Morning,155,Electrical Issue,High,465
+357,3-26-2025,3,13,Morning,150,Operator Error,High,450
+358,2-19-2026,2,18,Evening,60,Overheating,medium,120
+359,06-06-2025,4,1,Night,20,Power Failure,low,20
+360,6-29-2025,3,2,Morning,108,Operator Error,High,108
+361,05-02-2025,3,39,Morning,211,Scheduled Maintenance,Critical,422
+362,5-23-2025,1,30,Morning,92,Scheduled Maintenance,High,184
+363,1-27-2026,1,26,Evening,135,Power Failure,High,405
+364,4-14-2025,5,31,Morning,152,Electrical Issue,High,456
+365,5-23-2025,6,19,Night,10,Sensor Fault,low,10
+366,12-01-2025,4,4,Night,206,Material Shortage,Critical,206
+367,12-15-2025,2,33,general,14,Electrical Issue,low,42
+368,03-12-2025,2,37,Morning,140,Operator Error,High,420
+369,1-26-2026,1,32,general,20,Material Shortage,low,40
+370,4-20-2025,4,10,Night,15,Power Failure,low,15
+371,04-06-2025,3,14,Evening,110,Material Shortage,High,220
+372,5-19-2025,6,3,Morning,136,Power Failure,High,408
+373,1-19-2026,5,12,Evening,38,Material Shortage,medium,76
+374,06-05-2025,5,9,Morning,148,Material Shortage,High,444
+375,6-14-2025,1,41,Evening,26,Overheating,low,52
+376,06-12-2025,6,4,Morning,209,Power Failure,Critical,418
+377,12-16-2025,6,39,Morning,213,Power Failure,Critical,426
+378,7-14-2025,5,15,Morning,42,Scheduled Maintenance,medium,84
+379,7-21-2025,2,34,Night,145,Material Shortage,High,290
+380,1-22-2026,6,27,Morning,206,Electrical Issue,Critical,412
+381,1-22-2026,2,15,general,225,Electrical Issue,Critical,450
+382,6-14-2025,3,39,Morning,220,Power Failure,Critical,220
+383,7-17-2025,3,31,Night,151,Material Shortage,High,302
+384,01-09-2026,3,2,Night,66,Overheating,medium,198
+385,10-04-2025,2,22,Morning,44,Scheduled Maintenance,medium,132
+386,8-16-2025,4,14,general,64,Electrical Issue,medium,128
+387,4-21-2025,6,40,Night,33,Scheduled Maintenance,medium,33
+388,9-18-2025,2,40,Evening,187,Operator Error,Critical,187
+389,1-16-2026,4,42,general,22,Mechanical Failure,low,44
+390,08-03-2025,4,1,Evening,13,Operator Error,low,39
+391,05-12-2025,5,39,Morning,49,Overheating,medium,147
+392,11-03-2025,5,38,general,103,Electrical Issue,High,309
+393,8-30-2025,6,38,general,103,Operator Error,High,103
+394,11-29-2025,4,35,general,35,Power Failure,medium,70
+395,12-01-2025,3,27,Morning,46,Operator Error,medium,46
+396,3-18-2025,1,3,Morning,163,Material Shortage,High,326
+397,4-14-2025,3,11,Night,98,Power Failure,High,294
+398,04-03-2025,3,22,Evening,76,Operator Error,medium,76
+399,06-10-2025,3,37,general,125,Material Shortage,High,375
+400,03-03-2025,2,12,Night,151,Electrical Issue,High,453
+401,8-31-2025,5,39,Evening,37,Electrical Issue,medium,111
+402,4-28-2025,4,26,Evening,15,Operator Error,low,15
+403,06-10-2025,2,26,Morning,221,Overheating,Critical,221
+404,8-18-2025,5,32,general,181,Material Shortage,Critical,543
+405,03-05-2025,4,26,Night,36,Electrical Issue,medium,36
+406,2-14-2026,2,28,general,40,Sensor Fault,medium,80
+407,5-27-2025,6,19,Morning,15,Scheduled Maintenance,low,30
+408,03-10-2025,6,34,Evening,34,Material Shortage,medium,34
+409,10-20-2025,3,44,Night,59,Scheduled Maintenance,medium,177
+410,11-09-2025,2,22,general,29,Power Failure,low,87
+411,12-02-2025,5,21,Night,142,Material Shortage,High,142
+412,1-27-2026,3,27,Evening,135,Overheating,High,270
+413,6-23-2025,3,16,Morning,132,Material Shortage,High,396
+414,9-27-2025,4,35,Morning,90,Overheating,medium,90
+415,8-21-2025,3,4,Morning,225,Material Shortage,Critical,675
+416,11-12-2025,1,19,Evening,223,Material Shortage,Critical,223
+417,11-28-2025,1,15,Morning,122,Material Shortage,High,122
+418,5-19-2025,5,35,Evening,158,Power Failure,High,474
+419,9-21-2025,6,30,Night,81,Material Shortage,medium,162
+420,1-28-2026,1,7,Morning,52,Material Shortage,medium,156
+421,1-27-2026,3,4,Night,218,Scheduled Maintenance,Critical,654
+422,5-27-2025,3,42,Morning,51,Material Shortage,medium,153
+423,8-22-2025,3,11,Morning,202,Overheating,Critical,202
+424,02-08-2026,3,27,Evening,194,Electrical Issue,Critical,194
+425,12-08-2025,3,15,Night,56,Scheduled Maintenance,medium,56
+426,07-08-2025,5,7,Night,126,Operator Error,High,378
+427,10-05-2025,4,8,general,167,Mechanical Failure,High,167
+428,4-18-2025,3,43,Evening,219,Mechanical Failure,Critical,219
+429,11-27-2025,6,36,Night,85,Scheduled Maintenance,medium,85
+430,8-25-2025,1,43,Night,169,Overheating,High,169
+431,04-07-2025,3,8,Night,95,Electrical Issue,High,190
+432,07-09-2025,3,18,general,190,Mechanical Failure,Critical,190
+433,4-25-2025,4,3,Night,56,Operator Error,medium,112
+434,7-23-2025,1,15,Morning,95,Scheduled Maintenance,High,190
+435,08-08-2025,4,19,general,160,Overheating,High,160
+436,1-31-2026,2,21,Morning,146,Sensor Fault,High,146
+437,11-06-2025,2,27,Night,127,Scheduled Maintenance,High,381
+438,5-30-2025,1,40,general,159,Overheating,High,159
+439,10-28-2025,1,14,Night,10,Operator Error,low,20
+440,8-30-2025,3,2,Morning,84,Power Failure,medium,84
+441,11-30-2025,5,43,Evening,131,Scheduled Maintenance,High,393
+442,05-11-2025,3,31,Night,56,Sensor Fault,medium,56
+443,5-21-2025,5,34,Evening,83,Operator Error,medium,83
+444,3-17-2025,1,26,Morning,145,Power Failure,High,145
+445,07-10-2025,5,6,Night,101,Material Shortage,High,101
+446,2-14-2026,6,39,Night,193,Operator Error,Critical,193
+447,11-23-2025,2,34,general,223,Material Shortage,Critical,223
+448,3-24-2025,2,17,general,119,Sensor Fault,High,357
+449,5-15-2025,2,24,Evening,21,Power Failure,low,21
+450,9-17-2025,3,11,Evening,21,Electrical Issue,low,63
+451,8-16-2025,3,12,Morning,41,Electrical Issue,medium,123
+452,3-30-2025,6,6,Night,119,Mechanical Failure,High,238
+453,12-18-2025,4,39,Morning,21,Power Failure,low,63
+454,10-13-2025,2,35,general,64,Scheduled Maintenance,medium,128
+455,1-21-2026,3,33,Morning,163,Power Failure,High,326
+456,10-14-2025,6,36,Morning,226,Overheating,Critical,452
+457,11-23-2025,4,5,Night,62,Electrical Issue,medium,62
+458,09-04-2025,6,25,Night,132,Mechanical Failure,High,264
+459,2-28-2025,4,6,general,145,Sensor Fault,High,145
+460,11-20-2025,6,11,general,54,Electrical Issue,medium,108
+461,03-01-2025,4,34,Morning,75,Sensor Fault,medium,75
+462,02-05-2026,2,43,Evening,67,Operator Error,medium,134
+463,5-20-2025,4,44,Evening,21,Overheating,low,21
+464,11-20-2025,3,11,general,28,Electrical Issue,low,84
+465,1-28-2026,1,42,general,125,Material Shortage,High,125
+466,10-31-2025,1,18,general,160,Overheating,High,480
+467,04-03-2025,3,35,Evening,213,Material Shortage,Critical,639
+468,12-19-2025,6,4,Morning,145,Overheating,High,290
+469,03-07-2025,2,10,Morning,219,Material Shortage,Critical,219
+470,03-08-2025,4,10,Morning,30,Operator Error,low,90
+471,9-13-2025,1,36,Night,94,Sensor Fault,High,282
+472,8-22-2025,5,10,general,54,Mechanical Failure,medium,54
+473,6-13-2025,5,19,Morning,72,Mechanical Failure,medium,216
+474,10-13-2025,3,6,Morning,117,Material Shortage,High,117
+475,02-01-2026,5,14,Evening,72,Overheating,medium,144
+476,06-03-2025,6,43,Night,28,Mechanical Failure,low,84
+477,4-19-2025,2,18,Morning,38,Power Failure,medium,114
+478,08-02-2025,2,22,Morning,126,Electrical Issue,High,126
+479,1-20-2026,1,44,Evening,125,Sensor Fault,High,125
+480,04-04-2025,2,13,Evening,115,Power Failure,High,230
+481,05-09-2025,6,18,Evening,85,Electrical Issue,medium,170
+482,04-04-2025,4,43,Morning,29,Operator Error,low,29
+483,7-13-2025,6,4,Night,203,Power Failure,Critical,203
+484,11-20-2025,6,42,Night,163,Overheating,High,163
+485,05-04-2025,4,6,general,88,Operator Error,medium,176
+486,05-06-2025,4,21,Evening,104,Overheating,High,312
+487,07-03-2025,6,5,general,64,Mechanical Failure,medium,192
+488,7-28-2025,6,36,Morning,121,Material Shortage,High,363
+489,8-13-2025,4,13,Evening,209,Operator Error,Critical,418
+490,6-23-2025,5,32,Morning,89,Sensor Fault,medium,89
+491,3-15-2025,4,43,Night,99,Overheating,High,297
+492,05-04-2025,5,44,Morning,48,Material Shortage,medium,96
+493,10-16-2025,6,30,Morning,80,Material Shortage,medium,160
+494,02-03-2026,5,2,Morning,185,Operator Error,Critical,370
+495,1-24-2026,2,18,general,131,Scheduled Maintenance,High,131
+496,11-14-2025,5,34,Evening,45,Power Failure,medium,45
+497,9-20-2025,4,32,Morning,66,Power Failure,medium,132
+498,01-06-2026,2,24,Morning,165,Power Failure,High,165
+499,10-29-2025,2,29,Night,200,Material Shortage,Critical,600
+500,4-28-2025,6,17,Evening,18,Sensor Fault,low,36
+501,3-22-2025,1,10,Evening,82,Power Failure,medium,246
+502,12-21-2025,1,30,Night,38,Overheating,medium,76
+503,12-19-2025,1,27,Night,149,Overheating,High,298
+504,11-16-2025,2,30,Night,93,Operator Error,High,186
+505,12-20-2025,4,36,Morning,209,Mechanical Failure,Critical,627
+506,3-16-2025,6,31,Evening,199,Power Failure,Critical,398
+507,06-10-2025,6,31,Night,190,Scheduled Maintenance,Critical,570
+508,04-12-2025,3,40,Evening,168,Power Failure,High,336
+509,08-04-2025,3,2,Morning,167,Scheduled Maintenance,High,334
+510,09-02-2025,2,45,Morning,203,Mechanical Failure,Critical,609
+511,2-28-2025,5,37,Night,191,Electrical Issue,Critical,573
+512,6-22-2025,4,43,Evening,102,Overheating,High,306
+513,7-29-2025,2,42,Morning,75,Overheating,medium,225
+514,1-27-2026,2,9,general,214,Overheating,Critical,642
+515,11-03-2025,6,19,Night,160,Overheating,High,480
+516,7-27-2025,5,33,general,168,Sensor Fault,High,336
+517,8-28-2025,1,45,general,54,Material Shortage,medium,162
+518,08-04-2025,5,6,Night,79,Overheating,medium,237
+519,11-19-2025,6,20,Night,37,Material Shortage,medium,74
+520,11-21-2025,2,3,Evening,210,Power Failure,Critical,210
+521,4-23-2025,1,38,Morning,69,Sensor Fault,medium,207
+522,5-29-2025,5,38,Night,35,Power Failure,medium,70
+523,8-27-2025,2,20,Evening,142,Power Failure,High,426
+524,07-10-2025,2,20,Night,76,Operator Error,medium,152
+525,12-19-2025,1,14,Evening,122,Material Shortage,High,122
+526,03-09-2025,3,13,Evening,120,Scheduled Maintenance,High,360
+527,4-19-2025,4,38,Morning,197,Overheating,Critical,591
+528,2-18-2026,4,7,Evening,120,Scheduled Maintenance,High,240
+529,10-09-2025,2,10,Night,67,Power Failure,medium,134
+530,11-26-2025,6,23,general,139,Overheating,High,139
+531,7-26-2025,4,6,Evening,222,Operator Error,Critical,222
+532,3-27-2025,2,5,Evening,80,Sensor Fault,medium,240
+533,6-29-2025,6,24,Morning,121,Mechanical Failure,High,242
+534,07-03-2025,1,22,Night,223,Mechanical Failure,Critical,446
+535,1-22-2026,5,2,Evening,163,Sensor Fault,High,489
+536,8-29-2025,3,38,Night,49,Sensor Fault,medium,147
+537,4-30-2025,5,26,general,13,Electrical Issue,low,39
+538,4-24-2025,6,12,general,93,Electrical Issue,High,279
+539,4-24-2025,1,31,Evening,99,Operator Error,High,297
+540,01-03-2026,6,23,Evening,22,Material Shortage,low,22
+541,01-04-2026,5,4,general,112,Electrical Issue,High,336
+542,6-29-2025,5,29,Morning,44,Sensor Fault,medium,88
+543,3-24-2025,4,41,Night,25,Overheating,low,50
+544,1-29-2026,5,33,general,148,Power Failure,High,296
+545,11-02-2025,3,8,Morning,70,Sensor Fault,medium,70
+546,11-01-2025,4,41,general,15,Operator Error,low,15
+547,8-15-2025,6,21,Morning,33,Operator Error,medium,99
+548,1-28-2026,1,19,Night,50,Scheduled Maintenance,medium,150
+549,11-27-2025,1,15,general,30,Overheating,low,90
+550,7-19-2025,1,44,general,38,Operator Error,medium,76
+551,9-20-2025,5,2,Night,171,Scheduled Maintenance,High,342
+552,09-10-2025,2,6,Morning,208,Electrical Issue,Critical,208
+553,1-26-2026,1,45,Night,128,Sensor Fault,High,128
+554,2-23-2025,6,1,general,118,Operator Error,High,236
+555,10-01-2025,5,13,general,170,Mechanical Failure,High,510
+556,8-29-2025,5,9,general,35,Power Failure,medium,35
+557,11-01-2025,6,34,Night,100,Operator Error,High,200
+558,11-25-2025,3,12,Night,226,Electrical Issue,Critical,678
+559,2-23-2025,3,31,general,86,Operator Error,medium,172
+560,12-13-2025,1,33,Night,177,Sensor Fault,High,177
+561,07-10-2025,2,29,Morning,97,Overheating,High,97
+562,1-26-2026,4,13,Evening,96,Power Failure,High,96
+563,4-16-2025,5,15,Morning,196,Mechanical Failure,Critical,392
+564,12-18-2025,1,12,general,89,Electrical Issue,medium,267
+565,5-20-2025,2,12,Night,109,Scheduled Maintenance,High,109
+566,7-24-2025,6,37,Night,196,Electrical Issue,Critical,588
+567,12-07-2025,4,30,Night,53,Scheduled Maintenance,medium,106
+568,12-26-2025,4,40,general,141,Power Failure,High,141
+569,7-30-2025,3,9,general,161,Electrical Issue,High,322
+570,08-04-2025,1,37,Morning,49,Overheating,medium,147
+571,07-09-2025,1,34,general,192,Power Failure,Critical,384
+572,10-31-2025,5,8,Night,42,Scheduled Maintenance,medium,126
+573,11-06-2025,5,10,Morning,79,Sensor Fault,medium,79
+574,12-13-2025,6,21,Night,62,Overheating,medium,62
+575,10-27-2025,3,11,Evening,221,Sensor Fault,Critical,442
+576,04-04-2025,1,7,Morning,194,Material Shortage,Critical,582
+577,09-08-2025,4,22,Morning,25,Scheduled Maintenance,low,50
+578,3-20-2025,1,18,Night,182,Sensor Fault,Critical,546
+579,06-09-2025,5,44,general,155,Material Shortage,High,310
+580,5-28-2025,4,20,general,222,Scheduled Maintenance,Critical,666
+581,05-02-2025,1,26,general,93,Material Shortage,High,279
+582,09-07-2025,6,6,Night,13,Power Failure,low,26
+583,1-22-2026,2,16,Morning,34,Overheating,medium,102
+584,2-28-2025,5,12,Morning,171,Mechanical Failure,High,171
+585,01-11-2026,5,39,Night,201,Operator Error,Critical,201
+586,9-19-2025,5,39,Night,224,Scheduled Maintenance,Critical,224
+587,06-01-2025,1,35,Night,156,Sensor Fault,High,312
+588,1-20-2026,6,23,Night,218,Overheating,Critical,218
+589,12-20-2025,2,22,Evening,170,Mechanical Failure,High,340
+590,03-07-2025,6,25,Morning,126,Material Shortage,High,378
+591,08-06-2025,4,35,Evening,95,Scheduled Maintenance,High,285
+592,08-09-2025,4,40,general,87,Material Shortage,medium,261
+593,12-29-2025,6,4,Evening,175,Mechanical Failure,High,175
+594,03-11-2025,1,42,general,211,Sensor Fault,Critical,633
+595,4-22-2025,1,3,Evening,37,Power Failure,medium,74
+596,6-15-2025,6,21,Night,17,Sensor Fault,low,17
+597,01-04-2026,4,41,Morning,219,Power Failure,Critical,438
+598,06-05-2025,1,21,general,187,Electrical Issue,Critical,374
+599,02-05-2026,3,9,Morning,199,Mechanical Failure,Critical,597
+600,7-13-2025,2,8,Night,37,Power Failure,medium,111
+601,12-16-2025,2,33,Morning,175,Overheating,High,175
+602,11-23-2025,2,24,Evening,67,Material Shortage,medium,134
+603,9-16-2025,1,32,Morning,228,Material Shortage,Critical,456
+604,4-16-2025,3,12,Morning,122,Mechanical Failure,High,366
+605,2-27-2025,2,28,Morning,89,Electrical Issue,medium,89
+606,10-05-2025,1,3,Morning,133,Scheduled Maintenance,High,266
+607,6-21-2025,4,8,Morning,167,Sensor Fault,High,334
+608,6-13-2025,5,21,Morning,23,Scheduled Maintenance,low,23
+609,11-22-2025,1,2,Night,28,Scheduled Maintenance,low,56
+610,02-08-2026,4,9,Morning,104,Scheduled Maintenance,High,312
+611,11-21-2025,1,43,general,151,Power Failure,High,453
+612,3-29-2025,2,5,Night,63,Operator Error,medium,189
+613,04-09-2025,1,28,Evening,77,Electrical Issue,medium,77
+614,2-15-2026,1,10,Morning,125,Power Failure,High,375
+615,11-15-2025,2,21,Night,192,Electrical Issue,Critical,384
+616,08-10-2025,4,14,Night,50,Overheating,medium,50
+617,10-20-2025,6,18,Evening,63,Electrical Issue,medium,63
+618,02-08-2026,4,34,Morning,128,Material Shortage,High,128
+619,7-27-2025,2,39,Evening,38,Power Failure,medium,114
+620,3-17-2025,2,3,Night,217,Scheduled Maintenance,Critical,217
+621,05-01-2025,6,25,Evening,160,Electrical Issue,High,320
+622,05-08-2025,3,27,Morning,131,Scheduled Maintenance,High,393
+623,12-12-2025,5,34,general,82,Material Shortage,medium,246
+624,7-26-2025,5,29,Night,60,Mechanical Failure,medium,120
+625,8-13-2025,4,34,Evening,37,Power Failure,medium,37
+626,8-24-2025,2,15,Evening,195,Overheating,Critical,585
+627,10-17-2025,2,8,general,197,Sensor Fault,Critical,197
+628,6-15-2025,1,12,Night,162,Scheduled Maintenance,High,162
+629,09-12-2025,2,21,general,50,Sensor Fault,medium,150
+630,4-20-2025,5,23,Evening,171,Operator Error,High,171
+631,3-28-2025,2,28,general,181,Electrical Issue,Critical,543
+632,2-27-2025,4,24,general,10,Power Failure,low,20
+633,5-13-2025,3,29,Night,70,Mechanical Failure,medium,140
+634,4-28-2025,6,14,Evening,19,Overheating,low,57
+635,2-14-2026,5,35,Morning,166,Operator Error,High,332
+636,10-14-2025,3,9,general,133,Power Failure,High,266
+637,9-29-2025,5,31,Evening,12,Overheating,low,36
+638,8-27-2025,6,15,Morning,196,Power Failure,Critical,196
+639,11-07-2025,5,10,Morning,202,Power Failure,Critical,202
+640,08-07-2025,2,26,Evening,21,Electrical Issue,low,42
+641,01-07-2026,1,8,Night,204,Electrical Issue,Critical,612
+642,12-25-2025,4,28,Morning,46,Operator Error,medium,46
+643,12-29-2025,6,37,Night,53,Mechanical Failure,medium,53
+644,12-28-2025,3,37,Night,227,Sensor Fault,Critical,681
+645,3-29-2025,3,34,Evening,183,Overheating,Critical,183
+646,8-17-2025,2,8,Night,32,Electrical Issue,medium,64
+647,9-30-2025,5,21,Night,198,Operator Error,Critical,396
+648,3-15-2025,6,34,Morning,46,Scheduled Maintenance,medium,92
+649,3-16-2025,5,1,Morning,77,Scheduled Maintenance,medium,154
+650,09-08-2025,6,16,Evening,76,Power Failure,medium,76
+651,3-22-2025,4,29,general,222,Mechanical Failure,Critical,666
+652,08-01-2025,5,17,general,45,Mechanical Failure,medium,45
+653,9-19-2025,3,35,Morning,59,Overheating,medium,118
+654,11-01-2025,1,12,general,208,Scheduled Maintenance,Critical,624
+655,7-26-2025,5,36,Evening,70,Overheating,medium,70
+656,11-27-2025,1,17,Night,12,Overheating,low,12
+657,01-05-2026,1,31,Evening,189,Electrical Issue,Critical,189
+658,7-30-2025,5,44,general,165,Power Failure,High,165
+659,06-07-2025,2,14,Night,26,Power Failure,low,52
+660,5-23-2025,1,17,Morning,37,Mechanical Failure,medium,37
+661,8-23-2025,5,11,general,68,Operator Error,medium,136
+662,1-30-2026,3,15,Night,104,Scheduled Maintenance,High,208
+663,09-09-2025,2,25,Morning,13,Operator Error,low,13
+664,2-14-2026,5,3,Evening,148,Sensor Fault,High,296
+665,3-22-2025,3,12,Night,145,Material Shortage,High,290
+666,12-06-2025,3,16,Night,49,Material Shortage,medium,98
+667,07-06-2025,1,16,Evening,11,Overheating,low,11
+668,6-13-2025,6,16,general,122,Material Shortage,High,244
+669,7-18-2025,2,40,general,171,Operator Error,High,171
+670,08-04-2025,1,42,Morning,145,Power Failure,High,290
+671,01-06-2026,1,23,Night,22,Scheduled Maintenance,low,66
+672,1-16-2026,5,44,Night,19,Scheduled Maintenance,low,19
+673,06-09-2025,6,42,Morning,129,Scheduled Maintenance,High,258
+674,2-13-2026,6,43,Morning,154,Operator Error,High,308
+675,1-20-2026,3,16,Night,57,Material Shortage,medium,114
+676,7-19-2025,2,1,Night,39,Overheating,medium,39
+677,10-21-2025,3,23,general,69,Power Failure,medium,69
+678,3-28-2025,6,11,Night,130,Sensor Fault,High,390
+679,02-03-2026,6,30,Morning,101,Overheating,High,101
+680,05-09-2025,4,1,Evening,163,Overheating,High,326
+681,12-06-2025,4,19,Evening,11,Mechanical Failure,low,33
+682,12-14-2025,5,25,general,109,Electrical Issue,High,218
+683,5-16-2025,4,24,Morning,84,Scheduled Maintenance,medium,168
+684,4-17-2025,5,7,Evening,170,Material Shortage,High,510
+685,11-05-2025,3,39,Morning,197,Power Failure,Critical,394
+686,09-10-2025,1,4,Morning,42,Overheating,medium,126
+687,8-26-2025,5,15,Night,208,Power Failure,Critical,208
+688,12-29-2025,4,7,general,216,Overheating,Critical,432
+689,3-13-2025,2,41,general,27,Electrical Issue,low,54
+690,07-09-2025,4,5,Evening,128,Power Failure,High,384
+691,1-13-2026,1,26,general,44,Mechanical Failure,medium,132
+692,11-04-2025,1,31,Evening,217,Overheating,Critical,217
+693,10-18-2025,3,23,Night,114,Mechanical Failure,High,114
+694,01-04-2026,4,30,Morning,143,Sensor Fault,High,286
+695,10-01-2025,4,22,Night,80,Material Shortage,medium,240
+696,05-09-2025,6,7,Night,41,Scheduled Maintenance,medium,41
+697,03-10-2025,1,15,Evening,173,Electrical Issue,High,346
+698,4-25-2025,2,24,Night,85,Overheating,medium,255
+699,11-07-2025,6,1,Night,105,Operator Error,High,210
+700,5-13-2025,2,1,Morning,161,Sensor Fault,High,322
+701,8-24-2025,3,39,general,180,Operator Error,High,540
+702,9-15-2025,1,19,Night,134,Operator Error,High,134
+703,1-31-2026,2,18,general,201,Mechanical Failure,Critical,402
+704,08-11-2025,3,26,Night,193,Sensor Fault,Critical,579
+705,12-30-2025,3,39,Night,152,Sensor Fault,High,304
+706,11-06-2025,1,32,Evening,45,Material Shortage,medium,90
+707,5-15-2025,2,25,general,13,Sensor Fault,low,13
+708,09-12-2025,2,19,Morning,215,Scheduled Maintenance,Critical,645
+709,03-09-2025,3,41,Night,149,Sensor Fault,High,298
+710,12-21-2025,2,29,Evening,143,Mechanical Failure,High,143
+711,08-07-2025,2,16,Morning,224,Power Failure,Critical,448
+712,1-28-2026,3,30,Evening,193,Scheduled Maintenance,Critical,579
+713,04-09-2025,2,11,Evening,180,Scheduled Maintenance,High,360
+714,10-16-2025,5,7,Night,54,Mechanical Failure,medium,162
+715,3-22-2025,2,18,general,121,Electrical Issue,High,242
+716,03-07-2025,1,23,Morning,83,Mechanical Failure,medium,83
+717,03-08-2025,5,17,Morning,172,Overheating,High,344
+718,8-18-2025,4,43,Night,185,Mechanical Failure,Critical,185
+719,04-09-2025,1,20,Night,124,Electrical Issue,High,124
+720,07-05-2025,3,38,Evening,121,Operator Error,High,121
+721,4-14-2025,3,20,Night,167,Material Shortage,High,501
+722,10-21-2025,6,3,Night,196,Electrical Issue,Critical,392
+723,04-08-2025,1,45,Evening,15,Mechanical Failure,low,45
+724,4-26-2025,6,11,Evening,175,Mechanical Failure,High,175
+725,5-23-2025,5,16,Evening,126,Mechanical Failure,High,252
+726,4-21-2025,5,43,Evening,199,Mechanical Failure,Critical,199
+727,11-11-2025,4,11,Morning,123,Material Shortage,High,123
+728,08-01-2025,6,6,Evening,139,Electrical Issue,High,417
+729,8-17-2025,1,43,Night,120,Mechanical Failure,High,240
+730,11-21-2025,4,16,Evening,56,Sensor Fault,medium,56
+731,4-14-2025,6,3,Evening,63,Mechanical Failure,medium,189
+732,09-12-2025,3,40,Morning,138,Overheating,High,276
+733,9-27-2025,3,3,Evening,45,Scheduled Maintenance,medium,135
+734,09-09-2025,5,6,Evening,163,Mechanical Failure,High,326
+735,4-22-2025,1,7,Night,221,Overheating,Critical,442
+736,8-14-2025,3,8,Evening,74,Scheduled Maintenance,medium,222
+737,1-13-2026,1,18,Morning,121,Electrical Issue,High,121
+738,07-09-2025,1,40,Morning,140,Operator Error,High,280
+739,6-15-2025,1,21,general,111,Power Failure,High,333
+740,08-05-2025,3,44,general,156,Mechanical Failure,High,156
+741,9-26-2025,6,4,general,213,Sensor Fault,Critical,639
+742,06-01-2025,6,19,Evening,211,Scheduled Maintenance,Critical,633
+743,08-06-2025,4,33,Night,183,Mechanical Failure,Critical,549
+744,10-15-2025,4,22,Night,227,Material Shortage,Critical,227
+745,10-12-2025,2,19,Morning,93,Overheating,High,93
+746,10-06-2025,1,12,Evening,134,Material Shortage,High,268
+747,1-27-2026,1,5,Morning,50,Operator Error,medium,100
+748,6-29-2025,3,10,Evening,179,Power Failure,High,358
+749,11-26-2025,4,29,general,88,Scheduled Maintenance,medium,88
+750,9-25-2025,6,17,Evening,195,Mechanical Failure,Critical,585
+751,06-10-2025,2,13,general,107,Material Shortage,High,107
+752,4-15-2025,5,40,Night,85,Mechanical Failure,medium,170
+753,1-15-2026,1,13,general,72,Mechanical Failure,medium,144
+754,12-07-2025,3,10,Night,75,Power Failure,medium,150
+755,03-06-2025,2,37,Evening,28,Operator Error,low,56
+756,3-27-2025,4,39,Morning,219,Electrical Issue,Critical,657
+757,5-30-2025,5,35,Evening,83,Overheating,medium,249
+758,4-30-2025,5,35,general,204,Mechanical Failure,Critical,612
+759,6-14-2025,6,15,Evening,194,Operator Error,Critical,388
+760,12-11-2025,2,41,Evening,98,Power Failure,High,294
+761,11-27-2025,3,43,general,24,Sensor Fault,low,24
+762,1-23-2026,2,21,general,199,Electrical Issue,Critical,398
+763,12-05-2025,6,33,Morning,130,Scheduled Maintenance,High,390
+764,2-19-2026,2,27,Evening,32,Mechanical Failure,medium,64
+765,3-19-2025,3,38,Morning,16,Overheating,low,32
+766,11-29-2025,5,31,Morning,116,Mechanical Failure,High,116
+767,4-18-2025,3,19,Night,63,Overheating,medium,189
+768,5-29-2025,6,23,general,224,Sensor Fault,Critical,672
+769,07-10-2025,6,26,Night,99,Mechanical Failure,High,297
+770,5-29-2025,2,21,Morning,79,Overheating,medium,237
+771,07-09-2025,5,22,general,75,Overheating,medium,150
+772,09-06-2025,2,9,Night,85,Scheduled Maintenance,medium,255
+773,3-23-2025,6,2,general,92,Electrical Issue,High,276
+774,4-17-2025,2,6,Night,22,Scheduled Maintenance,low,22
+775,01-07-2026,5,28,Evening,84,Mechanical Failure,medium,84
+776,10-06-2025,6,21,general,108,Material Shortage,High,108
+777,6-27-2025,1,30,general,81,Power Failure,medium,81
+778,3-20-2025,5,22,Night,64,Scheduled Maintenance,medium,128
+779,3-15-2025,2,29,Night,204,Mechanical Failure,Critical,612
+780,10-03-2025,6,20,general,213,Electrical Issue,Critical,213
+781,10-31-2025,6,26,Evening,175,Power Failure,High,525
+782,01-09-2026,4,45,Night,70,Scheduled Maintenance,medium,140
+783,9-19-2025,1,16,Night,214,Mechanical Failure,Critical,428
+784,12-30-2025,6,1,general,187,Operator Error,Critical,374
+785,8-21-2025,1,28,general,37,Power Failure,medium,111
+786,09-02-2025,1,38,Night,11,Overheating,low,22
+787,10-09-2025,2,9,general,100,Overheating,High,200
+788,5-23-2025,3,30,Morning,141,Electrical Issue,High,282
+789,5-23-2025,6,7,general,107,Power Failure,High,107
+790,9-25-2025,3,4,Evening,176,Overheating,High,352
+791,6-15-2025,2,19,general,100,Mechanical Failure,High,200
+792,6-17-2025,3,9,Evening,36,Material Shortage,medium,108
+793,12-15-2025,4,27,Morning,121,Sensor Fault,High,242
+794,12-07-2025,2,4,Evening,44,Mechanical Failure,medium,88
+795,2-13-2026,1,16,Morning,224,Mechanical Failure,Critical,448
+796,1-26-2026,5,29,Night,82,Scheduled Maintenance,medium,82
+797,8-27-2025,4,6,Night,55,Scheduled Maintenance,medium,55
+798,4-16-2025,6,5,Night,111,Sensor Fault,High,333
+799,1-13-2026,4,12,general,101,Mechanical Failure,High,303
+800,4-24-2025,5,40,Night,91,Mechanical Failure,High,182
+801,06-09-2025,1,40,Morning,196,Operator Error,Critical,392
+802,11-07-2025,3,31,Morning,216,Sensor Fault,Critical,432
+803,11-17-2025,2,17,Morning,142,Material Shortage,High,426
+804,9-26-2025,6,41,Evening,147,Material Shortage,High,147
+805,9-30-2025,2,1,Morning,153,Mechanical Failure,High,306
+806,12-26-2025,5,29,Night,28,Electrical Issue,low,56
+807,4-22-2025,5,7,Night,220,Mechanical Failure,Critical,660
+808,5-27-2025,2,40,Morning,219,Scheduled Maintenance,Critical,657
+809,4-22-2025,4,44,Morning,183,Electrical Issue,Critical,366
+810,3-27-2025,5,9,general,116,Operator Error,High,232
+811,02-05-2026,1,2,Morning,214,Electrical Issue,Critical,428
+812,9-18-2025,5,16,Evening,43,Mechanical Failure,medium,129
+813,3-28-2025,2,7,Evening,138,Scheduled Maintenance,High,138
+814,9-23-2025,5,11,Night,94,Overheating,High,188
+815,6-13-2025,5,37,Night,181,Electrical Issue,Critical,543
+816,10-13-2025,6,24,Morning,165,Mechanical Failure,High,165
+817,11-05-2025,3,44,general,116,Mechanical Failure,High,232
+818,4-14-2025,5,4,Night,188,Overheating,Critical,376
+819,5-29-2025,3,8,Night,129,Electrical Issue,High,258
+820,4-28-2025,1,40,general,15,Sensor Fault,low,45
+821,9-18-2025,4,33,Morning,116,Power Failure,High,348
+822,07-04-2025,5,34,Evening,64,Material Shortage,medium,64
+823,01-02-2026,6,6,general,101,Scheduled Maintenance,High,101
+824,09-07-2025,3,22,Morning,167,Overheating,High,501
+825,12-05-2025,5,32,general,60,Electrical Issue,medium,120
+826,10-23-2025,5,7,general,161,Mechanical Failure,High,322
+827,10-12-2025,4,40,Evening,211,Scheduled Maintenance,Critical,633
+828,6-17-2025,4,43,Morning,14,Sensor Fault,low,28
+829,7-30-2025,3,28,general,186,Operator Error,Critical,558
+830,02-09-2026,2,31,Evening,80,Power Failure,medium,160
+831,5-30-2025,4,8,Evening,225,Scheduled Maintenance,Critical,675
+832,9-21-2025,6,26,Evening,102,Material Shortage,High,204
+833,5-30-2025,1,31,Night,226,Scheduled Maintenance,Critical,678
+834,3-22-2025,4,2,Night,160,Electrical Issue,High,320
+835,05-03-2025,5,11,Evening,92,Electrical Issue,High,184
+836,1-20-2026,5,32,Evening,129,Power Failure,High,387
+837,11-06-2025,2,7,Evening,33,Operator Error,medium,33
+838,7-16-2025,1,4,general,79,Electrical Issue,medium,158
+839,04-04-2025,4,33,general,184,Scheduled Maintenance,Critical,368
+840,06-06-2025,5,3,Evening,128,Mechanical Failure,High,384
+841,5-22-2025,4,9,Evening,116,Electrical Issue,High,232
+842,3-29-2025,1,13,general,189,Scheduled Maintenance,Critical,567
+843,8-13-2025,4,24,general,85,Overheating,medium,255
+844,07-07-2025,1,17,Evening,101,Power Failure,High,303
+845,10-24-2025,2,6,Evening,47,Scheduled Maintenance,medium,141
+846,6-24-2025,1,44,Night,31,Scheduled Maintenance,medium,93
+847,01-05-2026,1,18,Morning,44,Overheating,medium,44
+848,12-15-2025,4,38,Evening,213,Material Shortage,Critical,639
+849,8-14-2025,3,9,Evening,99,Mechanical Failure,High,297
+850,8-21-2025,2,30,Morning,28,Overheating,low,84
+851,08-05-2025,1,2,Night,154,Electrical Issue,High,154
+852,06-03-2025,1,33,Evening,102,Operator Error,High,306
+853,12-05-2025,4,27,Morning,30,Electrical Issue,low,60
+854,02-03-2026,1,1,Evening,70,Electrical Issue,medium,210
+855,3-14-2025,6,28,general,143,Power Failure,High,286
+856,12-01-2025,6,7,general,46,Overheating,medium,46
+857,7-20-2025,5,24,Night,173,Electrical Issue,High,346
+858,10-07-2025,6,24,Evening,177,Sensor Fault,High,354
+859,2-22-2025,3,15,Night,167,Electrical Issue,High,501
+860,5-23-2025,5,9,Morning,151,Mechanical Failure,High,302
+861,2-20-2026,6,39,Night,180,Material Shortage,High,360
+862,03-06-2025,6,45,Night,103,Power Failure,High,309
+863,03-11-2025,5,27,general,128,Scheduled Maintenance,High,128
+864,10-07-2025,3,17,Evening,76,Electrical Issue,medium,152
+865,4-27-2025,5,25,Evening,89,Power Failure,medium,89
+866,09-05-2025,6,8,general,124,Electrical Issue,High,248
+867,2-26-2025,2,21,Evening,210,Operator Error,Critical,630
+868,7-25-2025,4,30,Night,53,Material Shortage,medium,53
+869,5-24-2025,4,1,general,133,Material Shortage,High,133
+870,2-18-2026,2,14,Night,166,Material Shortage,High,166
+871,03-01-2025,5,3,Evening,101,Power Failure,High,303
+872,11-11-2025,6,25,Evening,189,Scheduled Maintenance,Critical,378
+873,08-05-2025,6,23,Evening,126,Overheating,High,126
+874,08-10-2025,4,15,general,63,Overheating,medium,126
+875,03-07-2025,4,12,general,185,Power Failure,Critical,185
+876,09-05-2025,3,34,Night,43,Electrical Issue,medium,43
+877,9-30-2025,6,38,general,192,Scheduled Maintenance,Critical,192
+878,5-25-2025,3,42,Evening,105,Mechanical Failure,High,105
+879,9-16-2025,2,21,Morning,167,Scheduled Maintenance,High,167
+880,11-15-2025,4,2,Morning,122,Operator Error,High,244
+881,05-01-2025,3,30,Night,172,Electrical Issue,High,344
+882,4-19-2025,6,3,general,213,Material Shortage,Critical,213
+883,10-12-2025,5,38,Evening,46,Material Shortage,medium,46
+884,10-20-2025,1,14,general,72,Scheduled Maintenance,medium,72
+885,06-07-2025,4,11,Night,211,Mechanical Failure,Critical,633
+886,03-11-2025,4,2,Evening,108,Operator Error,High,324
+887,3-29-2025,1,37,Night,103,Power Failure,High,206
+888,09-05-2025,5,21,Evening,169,Power Failure,High,338
+889,10-24-2025,6,38,Night,200,Operator Error,Critical,200
+890,08-08-2025,2,18,Night,194,Power Failure,Critical,194
+891,01-06-2026,3,9,Evening,90,Operator Error,medium,90
+892,10-15-2025,1,30,general,164,Mechanical Failure,High,328
+893,6-13-2025,5,38,Evening,33,Electrical Issue,medium,33
+894,10-23-2025,3,22,Evening,82,Power Failure,medium,82
+895,8-13-2025,3,17,Night,95,Mechanical Failure,High,285
+896,8-16-2025,6,45,general,32,Mechanical Failure,medium,32
+897,02-09-2026,4,37,Night,84,Electrical Issue,medium,84
+898,03-12-2025,2,31,Morning,131,Power Failure,High,131
+899,10-07-2025,5,7,Evening,171,Operator Error,High,342
+900,11-26-2025,4,25,Evening,80,Scheduled Maintenance,medium,240
+901,7-18-2025,1,25,Night,120,Overheating,High,120
+902,4-20-2025,2,5,Evening,44,Operator Error,medium,44
+903,5-26-2025,5,30,Morning,43,Material Shortage,medium,86
+904,3-16-2025,1,15,Night,127,Overheating,High,381
+905,07-01-2025,4,6,Morning,150,Overheating,High,450
+906,2-28-2025,6,38,general,190,Operator Error,Critical,190
+907,10-01-2025,5,2,Evening,53,Electrical Issue,medium,106
+908,05-02-2025,1,33,Evening,134,Overheating,High,134
+909,05-04-2025,5,12,general,34,Sensor Fault,medium,34
+910,6-16-2025,6,21,Evening,191,Sensor Fault,Critical,191
+911,08-12-2025,3,3,Evening,73,Material Shortage,medium,146
+912,08-05-2025,5,36,general,145,Mechanical Failure,High,145
+913,3-29-2025,3,26,Night,117,Sensor Fault,High,234
+914,03-03-2025,3,10,Evening,114,Overheating,High,228
+915,8-20-2025,1,20,general,156,Electrical Issue,High,156
+916,05-12-2025,2,22,Night,26,Scheduled Maintenance,low,52
+917,07-01-2025,3,43,general,23,Electrical Issue,low,23
+918,1-20-2026,4,29,Evening,161,Operator Error,High,161
+919,12-10-2025,6,41,general,169,Power Failure,High,338
+920,09-09-2025,5,24,general,125,Electrical Issue,High,125
+921,2-28-2025,1,19,Morning,14,Scheduled Maintenance,low,14
+922,10-06-2025,4,7,Evening,54,Sensor Fault,medium,54
+923,7-30-2025,1,18,Night,28,Scheduled Maintenance,low,84
+924,11-22-2025,3,6,general,163,Overheating,High,489
+925,05-02-2025,6,26,Morning,21,Power Failure,low,42
+926,06-11-2025,1,29,Evening,111,Electrical Issue,High,333
+927,11-28-2025,6,30,Evening,212,Operator Error,Critical,212
+928,08-10-2025,3,40,Evening,24,Power Failure,low,72
+929,4-15-2025,4,13,Evening,82,Scheduled Maintenance,medium,164
+930,10-18-2025,6,13,Morning,171,Scheduled Maintenance,High,342
+931,12-24-2025,4,20,Evening,70,Scheduled Maintenance,medium,140
+932,4-15-2025,6,40,Morning,114,Mechanical Failure,High,114
+933,07-06-2025,1,38,Morning,31,Scheduled Maintenance,medium,31
+934,6-14-2025,6,45,general,20,Operator Error,low,40
+935,12-30-2025,3,44,Evening,17,Material Shortage,low,34
+936,06-01-2025,4,20,general,174,Scheduled Maintenance,High,174
+937,12-16-2025,3,36,Evening,16,Mechanical Failure,low,48
+938,8-31-2025,2,21,Morning,148,Sensor Fault,High,296
+939,5-19-2025,3,23,Night,172,Mechanical Failure,High,172
+940,05-03-2025,3,19,Night,86,Electrical Issue,medium,86
+941,7-30-2025,1,7,Night,86,Material Shortage,medium,86
+942,06-02-2025,1,8,Morning,46,Electrical Issue,medium,138
+943,5-22-2025,4,41,Night,28,Mechanical Failure,low,84
+944,12-22-2025,3,39,general,174,Scheduled Maintenance,High,522
+945,2-27-2025,6,39,Evening,23,Electrical Issue,low,46
+946,6-16-2025,1,33,Night,111,Electrical Issue,High,222
+947,07-11-2025,2,40,Night,148,Sensor Fault,High,296
+948,1-17-2026,6,13,Evening,154,Mechanical Failure,High,462
+949,2-20-2026,3,10,Night,208,Power Failure,Critical,208
+950,06-12-2025,4,29,Night,115,Sensor Fault,High,345
+951,02-04-2026,1,21,general,59,Operator Error,medium,59
+952,10-12-2025,3,3,Morning,98,Overheating,High,98
+953,12-11-2025,5,41,Night,119,Scheduled Maintenance,High,119
+954,1-22-2026,2,22,Night,210,Electrical Issue,Critical,630
+955,01-08-2026,2,39,Night,36,Scheduled Maintenance,medium,72
+956,7-27-2025,4,16,Morning,80,Overheating,medium,240
+957,10-24-2025,6,12,general,63,Mechanical Failure,medium,189
+958,8-17-2025,3,23,Morning,56,Mechanical Failure,medium,112
+959,04-06-2025,6,37,Night,13,Scheduled Maintenance,low,13
+960,08-05-2025,5,25,general,217,Electrical Issue,Critical,434
+961,03-07-2025,5,40,general,164,Mechanical Failure,High,164
+962,10-22-2025,1,39,Night,130,Material Shortage,High,130
+963,03-02-2025,1,27,Morning,211,Operator Error,Critical,422
+964,3-15-2025,1,7,Morning,146,Sensor Fault,High,292
+965,09-05-2025,4,41,Evening,177,Operator Error,High,177
+966,05-04-2025,1,42,general,45,Operator Error,medium,45
+967,6-30-2025,4,42,Morning,134,Scheduled Maintenance,High,402
+968,11-01-2025,2,16,Evening,209,Scheduled Maintenance,Critical,627
+969,3-14-2025,2,45,general,88,Material Shortage,medium,264
+970,01-09-2026,6,36,general,178,Material Shortage,High,534
+971,7-19-2025,2,16,Morning,130,Operator Error,High,260
+972,12-29-2025,6,29,Night,180,Power Failure,High,540
+973,09-07-2025,5,37,Night,188,Overheating,Critical,564
+974,8-17-2025,3,33,general,49,Operator Error,medium,147
+975,10-22-2025,2,36,Morning,78,Mechanical Failure,medium,78
+976,8-29-2025,1,33,general,201,Overheating,Critical,201
+977,05-09-2025,1,6,Evening,179,Sensor Fault,High,537
+978,10-22-2025,5,29,Morning,58,Mechanical Failure,medium,174
+979,4-15-2025,1,34,Evening,35,Scheduled Maintenance,medium,70
+980,6-27-2025,1,33,general,112,Material Shortage,High,224
+981,12-07-2025,2,42,general,215,Material Shortage,Critical,215
+982,1-19-2026,3,17,Night,113,Sensor Fault,High,339
+983,02-08-2026,6,13,general,70,Operator Error,medium,210
+984,04-07-2025,5,4,Morning,116,Mechanical Failure,High,348
+985,7-17-2025,5,20,Evening,220,Material Shortage,Critical,660
+986,04-09-2025,6,7,Night,154,Sensor Fault,High,154
+987,6-15-2025,6,12,general,17,Electrical Issue,low,51
+988,12-12-2025,5,34,Morning,145,Sensor Fault,High,435
+989,3-17-2025,3,9,Morning,180,Material Shortage,High,180
+990,9-25-2025,3,34,general,77,Power Failure,medium,231
+991,12-22-2025,1,43,general,169,Mechanical Failure,High,507
+992,12-23-2025,3,24,general,189,Electrical Issue,Critical,567
+993,1-13-2026,3,7,Evening,158,Electrical Issue,High,316
+994,01-01-2026,2,28,Night,164,Scheduled Maintenance,High,492
+995,5-25-2025,3,45,Night,228,Operator Error,Critical,228
+996,12-09-2025,2,40,Morning,186,Electrical Issue,Critical,558
+997,11-13-2025,2,45,Night,137,Overheating,High,137
+998,5-13-2025,4,14,general,103,Operator Error,High,206
+999,10-19-2025,3,24,Evening,23,Material Shortage,low,46
